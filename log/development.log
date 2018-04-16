@@ -1,0 +1,2871 @@
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:55:45 +0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 431ms (Views: 37.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:56:47 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:56:49 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 0ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:56:51 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:57:50 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 0ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:58:57 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 311ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:59:05 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:59:11 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:59:16 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 16:59:54 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:00:27 +0800
+Processing by CheckoutsController#new as HTML
+Completed 500 Internal Server Error in 286ms
+
+
+  
+Braintree::ConfigurationError (Braintree::Configuration.environment needs to be set):
+  
+app/controllers/checkouts_controller.rb:13:in `new'
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:08:53 +0800
+Processing by CheckoutsController#new as HTML
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:08:55 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 2731ms (Views: 743.2ms)
+
+
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1154ms (Views: 67.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:14:57 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1085ms (Views: 52.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:15:01 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1073ms (Views: 68.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:15:11 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 966ms (Views: 58.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:15:13 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 988ms (Views: 54.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 17:26:25 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 2186ms (Views: 413.1ms)
+
+
+Started POST "/checkouts" for 127.0.0.1 at 2017-09-13 17:27:24 +0800
+Processing by CheckoutsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"25d0c6f9waY9uYHIW56vBMTnsEKaxtw/DN8K61YbK+QGhPGRY/7FM+9udChJncDW4FHSKWaAeo6QXscLWGCTJA==", "amount"=>"13232", "payment_method_nonce"=>"a500dfb9-707f-0d10-5df9-62273eb4fbec"}
+Redirected to http://localhost:3001/checkouts/g8hns5xn
+Completed 302 Found in 1424ms
+
+
+Started GET "/checkouts/g8hns5xn" for 127.0.0.1 at 2017-09-13 17:27:25 +0800
+Processing by CheckoutsController#show as HTML
+  Parameters: {"id"=>"g8hns5xn"}
+  Rendering checkouts/show.html.erb within layouts/application
+  Rendered checkouts/show.html.erb within layouts/application (23.0ms)
+Completed 500 Internal Server Error in 1350ms
+
+
+  
+ActionView::Template::Error (The asset "success.svg" is not present in the asset pipeline.):
+    3:     <div class="content">
+    4:       <% if @result %>
+    5:         <div class="icon">
+    6:           <img src=<%= asset_path("#{@result[:icon]}.svg") %> alt="">
+    7:         </div>
+    8: 
+    9:         <h1><%= @result[:header] %></h1>
+  
+app/views/checkouts/show.html.erb:6:in `_app_views_checkouts_show_html_erb__509924458_92340060'
+Started GET "/checkouts/g8hns5xn" for 127.0.0.1 at 2017-09-13 17:28:40 +0800
+Processing by CheckoutsController#show as HTML
+  Parameters: {"id"=>"g8hns5xn"}
+  Rendering checkouts/show.html.erb within layouts/application
+  Rendered checkouts/show.html.erb within layouts/application (256.2ms)
+Completed 200 OK in 1421ms (Views: 345.0ms)
+
+
+Started GET "/checkouts/g8hns5xn" for 127.0.0.1 at 2017-09-13 17:33:55 +0800
+Processing by CheckoutsController#show as HTML
+  Parameters: {"id"=>"g8hns5xn"}
+  Rendering checkouts/show.html.erb within layouts/application
+  Rendered checkouts/show.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 1138ms (Views: 64.6ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-09-13 17:34:03 +0800
+  
+ActionController::RoutingError (No route matches [GET] "/show"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/checkouts/new" for 127.0.0.1 at 2017-09-13 17:52:42 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1327ms (Views: 79.3ms)
+
+
+Started POST "/checkouts" for 127.0.0.1 at 2017-09-13 17:57:16 +0800
+Processing by CheckoutsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"g96Ny1nhd0i2ERaUEyyXTz6LotKltFs8UG8juTcUw/BezQgpneJz3WTG43QBL/idGj3AuVny/Y3M7u5ZOW97MA==", "amount"=>"10", "payment_method_nonce"=>"6a6e3769-f972-06ca-5852-c395c3160657"}
+Redirected to http://localhost:3001/checkouts/9kvjn99y
+Completed 302 Found in 1707ms
+
+
+Started GET "/checkouts/9kvjn99y" for 127.0.0.1 at 2017-09-13 17:57:18 +0800
+Processing by CheckoutsController#show as HTML
+  Parameters: {"id"=>"9kvjn99y"}
+  Rendering checkouts/show.html.erb within layouts/application
+  Rendered checkouts/show.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 1146ms (Views: 83.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 18:02:06 +0800
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1110ms (Views: 53.9ms)
+
+
+Started GET "/" for 192.168.1.135 at 2017-09-13 18:06:59 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 2396ms (Views: 433.6ms)
+
+
+Started GET "/" for 192.168.1.116 at 2017-09-13 18:08:16 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 2022ms (Views: 338.6ms)
+
+
+Started POST "/" for 192.168.1.116 at 2017-09-13 18:08:29 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 192.168.1.135 at 2017-09-13 18:09:59 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 2087ms (Views: 343.0ms)
+
+
+Started GET "/" for 192.168.1.116 at 2017-09-13 18:15:28 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as */*
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 1461ms (Views: 178.5ms)
+
+
+Started GET "/new" for 192.168.1.116 at 2017-09-13 18:15:54 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.116 at 2017-09-13 18:20:02 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `resouces' for #<ActionDispatch::Routing::Mapper:0xb16f690>):
+  
+config/routes.rb:9:in `block (2 levels) in <top (required)>'
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:20:33 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 192.168.1.135 at 2017-09-13 18:20:36 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 1145ms (Views: 92.2ms)
+
+
+Started GET "/api/client_token" for 192.168.1.116 at 2017-09-13 18:22:24 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `resouces' for #<ActionDispatch::Routing::Mapper:0xa92d458>):
+  
+config/routes.rb:9:in `block (2 levels) in <top (required)>'
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/client_token" for 192.168.1.116 at 2017-09-13 18:23:09 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `resouces' for #<ActionDispatch::Routing::Mapper:0xadfa600>):
+  
+config/routes.rb:9:in `block (2 levels) in <top (required)>'
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/client_token" for 192.168.1.116 at 2017-09-13 18:23:31 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.116 at 2017-09-13 18:23:57 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `resouces' for #<ActionDispatch::Routing::Mapper:0xa0fb408>):
+  
+config/routes.rb:9:in `block (2 levels) in <top (required)>'
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:24:10 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:24:47 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `resouces' for #<ActionDispatch::Routing::Mapper:0xadc3dc0>):
+  
+config/routes.rb:9:in `block (2 levels) in <top (required)>'
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:25:05 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `resouces' for #<ActionDispatch::Routing::Mapper:0xacd2638>):
+  
+config/routes.rb:9:in `block (2 levels) in <top (required)>'
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:25:15 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `resouces' for #<ActionDispatch::Routing::Mapper:0xada1770>):
+  
+config/routes.rb:9:in `block (2 levels) in <top (required)>'
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:25:19 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant Api):
+  
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:78:in `controller_class'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:43:in `controller'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:29:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:25:59 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:26:17 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:26:22 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:26:45 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:27:47 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (F:/New folder/flytube/config/routes.rb:15: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+config/routes.rb:15: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:28:00 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:28:24 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant ApiController, expected F:/New folder/flytube/app/controllers/api_controller.rb to define it):
+  
+activesupport (5.1.4) lib/active_support/dependencies.rb:511:in `load_missing_constant'
+activesupport (5.1.4) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.4) lib/active_support/dependencies.rb:582:in `get'
+activesupport (5.1.4) lib/active_support/dependencies.rb:613:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:99:in `binary_params_for?'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:90:in `set_binary_encoding'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:67:in `path_parameters='
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:48:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:28:46 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant ApiController, expected F:/New folder/flytube/app/controllers/api_controller.rb to define it):
+  
+activesupport (5.1.4) lib/active_support/dependencies.rb:511:in `load_missing_constant'
+activesupport (5.1.4) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.4) lib/active_support/dependencies.rb:582:in `get'
+activesupport (5.1.4) lib/active_support/dependencies.rb:613:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:99:in `binary_params_for?'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:90:in `set_binary_encoding'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:67:in `path_parameters='
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:48:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:29:40 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant ApiController, expected F:/New folder/flytube/app/controllers/api_controller.rb to define it):
+  
+activesupport (5.1.4) lib/active_support/dependencies.rb:511:in `load_missing_constant'
+activesupport (5.1.4) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.4) lib/active_support/dependencies.rb:582:in `get'
+activesupport (5.1.4) lib/active_support/dependencies.rb:613:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:99:in `binary_params_for?'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:90:in `set_binary_encoding'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:67:in `path_parameters='
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:48:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/new" for 192.168.1.135 at 2017-09-13 18:31:05 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:31:11 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:31:19 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token_path" for 192.168.1.135 at 2017-09-13 18:31:28 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token_path"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:31:34 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token/1" for 192.168.1.135 at 2017-09-13 18:31:40 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token/1"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:31:46 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/client_token" for 192.168.1.135 at 2017-09-13 18:32:41 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/api/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 18:32:57 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant ApiController, expected F:/New folder/flytube/app/controllers/api_controller.rb to define it):
+  
+activesupport (5.1.4) lib/active_support/dependencies.rb:511:in `load_missing_constant'
+activesupport (5.1.4) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.4) lib/active_support/dependencies.rb:582:in `get'
+activesupport (5.1.4) lib/active_support/dependencies.rb:613:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:99:in `binary_params_for?'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:90:in `set_binary_encoding'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:67:in `path_parameters='
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:48:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 18:33:38 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant ApiController, expected F:/New folder/flytube/app/controllers/api_controller.rb to define it):
+  
+activesupport (5.1.4) lib/active_support/dependencies.rb:511:in `load_missing_constant'
+activesupport (5.1.4) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.4) lib/active_support/dependencies.rb:582:in `get'
+activesupport (5.1.4) lib/active_support/dependencies.rb:613:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:99:in `binary_params_for?'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:90:in `set_binary_encoding'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:67:in `path_parameters='
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:48:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 18:34:04 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 500 Internal Server Error in 1342ms
+
+
+  
+ActionView::MissingTemplate (Missing template checkouts/client_token, application/client_token with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "F:/New folder/flytube/app/views"
+):
+  
+app/controllers/checkouts_controller.rb:16:in `client_token'
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 18:34:56 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1026ms (Views: 0.3ms)
+
+
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 18:35:07 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 952ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.116 at 2017-09-13 18:35:19 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as */*
+Completed 200 OK in 888ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 18:35:37 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 934ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 20:49:26 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 4399ms (Views: 3.6ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 20:49:38 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 974ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 20:49:40 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1123ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 20:49:53 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 945ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 20:59:23 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (F:/New folder/flytube/app/controllers/checkouts_controller.rb:84: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/checkouts_controller.rb:84: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 21:00:54 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 2412ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 21:03:16 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1025ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 21:06:44 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1434ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 21:07:54 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1010ms (Views: 0.2ms)
+
+
+Started POST "/client_token" for 192.168.1.138 at 2017-09-13 21:08:21 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/client_token"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 21:09:19 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1038ms (Views: 0.1ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 21:09:38 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "payment_method_nonce"=>"43dec3b3-cd01-01cc-7e8f-67f1f4df3c15"}
+Completed 200 OK in 1329ms (Views: 0.1ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 21:10:22 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "payment_method_nonce"=>"4136a067-3ac7-0b66-2e76-fe2627026cce"}
+Completed 200 OK in 1479ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 21:11:50 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1034ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 21:11:52 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1004ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 21:11:55 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1113ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 21:11:57 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 906ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 21:59:33 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 21:59:34 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1861ms (Views: 8.1ms)
+
+
+Completed 200 OK in 3670ms (Views: 0.6ms)
+
+
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-13 23:21:39 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:22:40 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1726ms (Views: 5.6ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:23:33 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 2926ms (Views: 0.2ms)
+
+
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-13 23:24:03 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-13 23:24:27 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-13 23:24:35 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-13 23:24:51 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-13 23:24:53 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-13 23:24:58 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:25:10 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 5398ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 23:26:37 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "payment_method_nonce"=>"36da639e-6d55-06df-2e2c-6628035598f6"}
+Completed 200 OK in 11447ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:28:25 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:28:29 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 4619ms (Views: 0.2ms)
+
+
+Completed 200 OK in 4666ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 23:28:53 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"100", "payment_method_nonce"=>"351fcb9c-1954-0214-6b12-a3a590353677"}
+Completed 200 OK in 4980ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:31:42 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 8853ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 23:32:37 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"1000.00", "payment_method_nonce"=>"085b6380-79b1-0c45-5b8f-72606abb7e03"}
+Completed 200 OK in 3205ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:33:48 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 2854ms (Views: 0.3ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 23:34:33 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"-1000.00", "payment_method_nonce"=>"ef49b717-6f47-0ed7-5e6a-d96700967d6a"}
+Completed 200 OK in 1450ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:35:29 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 4433ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 23:36:02 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "payment_method_nonce"=>"4c658864-e54b-0f9f-6606-cc1869fc7037"}
+Completed 200 OK in 1745ms (Views: 1.1ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:40:41 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 6534ms (Views: 3.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:41:46 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 3247ms (Views: 2.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 23:42:07 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"5000000000", "payment_method_nonce"=>"58b76e07-3215-09e0-543c-86e82d5d2bad"}
+Completed 200 OK in 2460ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-13 23:43:06 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1255ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-13 23:43:32 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"5000", "payment_method_nonce"=>"86c1c63d-d9ce-061b-6403-63d9d18c8969"}
+Completed 200 OK in 6174ms (Views: 0.7ms)
+
+
+Started GET "/client_token" for 192.168.1.135 at 2017-09-13 23:46:53 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1661ms (Views: 0.2ms)
+
+
+Started GET "/" for 192.168.1.135 at 2017-09-14 00:00:24 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (46.2ms)
+Started GET "/" for 192.168.1.135 at 2017-09-14 00:00:27 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as HTML
+Completed 200 OK in 3785ms (Views: 1202.8ms)
+
+
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 1401ms (Views: 86.9ms)
+
+
+Started POST "/checkouts" for 192.168.1.135 at 2017-09-14 00:01:26 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"41WFVmS3yYUBqmlVXBTtc183vWRc2vaLJhMT4VNaWlkWPD+ySV0tl6N3JCH2psbFMAn/e8bEb2m5vvW874VZhw==", "amount"=>"199", "payment_method_nonce"=>"55dc8734-2ac2-0a0c-74f3-6cb6a178cccd"}
+Started POST "/checkouts" for 192.168.1.135 at 2017-09-14 00:01:28 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"41WFVmS3yYUBqmlVXBTtc183vWRc2vaLJhMT4VNaWlkWPD+ySV0tl6N3JCH2psbFMAn/e8bEb2m5vvW874VZhw==", "amount"=>"199", "payment_method_nonce"=>"55dc8734-2ac2-0a0c-74f3-6cb6a178cccd"}
+Redirected to http://192.168.1.135/checkouts/cnx7kta1
+Completed 302 Found in 3239ms
+
+
+Redirected to http://192.168.1.135/checkouts/new
+Completed 302 Found in 5567ms
+
+
+Started GET "/checkouts/new" for 192.168.1.135 at 2017-09-14 00:01:34 +0800
+Cannot render console from 192.168.1.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#new as HTML
+  Rendering checkouts/new.html.erb within layouts/application
+  Rendered checkouts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 4902ms (Views: 77.1ms)
+
+
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:02:01 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/q-jump/api/getAllClients"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:07:09 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:07:13 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:07:21 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:08:33 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:08:35 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:08:39 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:08:41 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:15:28 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/q-jump/api/getAllClients" for 192.168.1.116 at 2017-09-14 02:15:36 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (123.8ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (112.8ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUsers (20170913180541)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170913180541"]]
+  [1m[35m (109.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2017-09-13 18:32:14.156991"], ["updated_at", "2017-09-13 18:32:14.156991"]]
+  [1m[35m (134.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 09:58:27 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+SyntaxError (F:/New folder/flytube/app/controllers/checkouts_controller.rb:92: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/checkouts_controller.rb:92: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:00:16 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1459ms (Views: 2.4ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:00:39 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"32d7bc01-4d37-0562-5db3-88937894a09a"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1958ms (Views: 0.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:10:32 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 2625ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:11:58 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"greatroyalone@outlook.com", "payment_method_nonce"=>"6f5bae48-6d49-07b7-7832-04076c46c2e2"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "greatroyalone@outlook.com"], ["LIMIT", 1]]
+Completed 200 OK in 1422ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:13:13 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"greatroyalone@outlook.com", "payment_method_nonce"=>"b1095b5f-4b16-0c0d-73ea-7fe7b0bee740"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "greatroyalone@outlook.com"], ["LIMIT", 1]]
+Completed 200 OK in 1320ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:13:53 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1297ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:14:12 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"a19427c1-ab89-01d9-29d2-c6bc31508989"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1206ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:16:20 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"30a69da3-a9d5-0faa-5c00-db19a8cd1567"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 1266ms (Views: 0.2ms | ActiveRecord: 2.2ms)
+
+
+  
+AbstractController::DoubleRenderError (Render and/or redirect were called multiple times in this action. Please note that you may only call render OR redirect, and at most once per action. Also note that neither redirect nor render terminate execution of the action, so if you want to exit an action after redirecting, you need to do something like "redirect_to(...) and return".):
+  
+app/controllers/checkouts_controller.rb:53:in `checkout'
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:16:56 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"25f07651-dfa5-0469-26ab-fa070a22080f"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 9ms (Views: 0.2ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:17:57 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"9625599f-0986-0d2c-6b4e-7ab47bff2ccf"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1225ms (Views: 0.2ms | ActiveRecord: 1.3ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:18:37 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"ab9ab47c-aa07-0da7-71c7-ce71aad4a550"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1276ms (Views: 0.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:20:18 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1242ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:20:38 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"374125c3-54d4-0f50-69ce-0d7de9b28e0f"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1277ms (Views: 0.2ms | ActiveRecord: 2.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:21:13 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"67bc4351-85fb-0f6e-709a-7d5e8a18a420"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 2361ms (Views: 0.2ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:22:40 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.999", "email"=>"", "payment_method_nonce"=>"65f90f97-31f7-095d-65bb-499cbc38b342"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1242ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:23:31 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1211ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:23:53 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"426aca26-1271-0af3-5c60-255756f069f4"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1744ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:24:47 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"32595baf-ff01-06a1-5fca-07d77f0991d1"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 1655ms (Views: 0.2ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:26:02 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"64bdd0c1-0a10-0d17-7f82-5f5e8f9413b9"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 3263ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError ('#<Braintree::Transaction id: "5g5zpw7b", type: "sale", amount: "0.99", status: "submitted_for_settlement", created_at: 2017-09-14 02:26:09 UTC, credit_card_details: #<token: nil, bin: "411111", last_4: "1111", card_type: "Visa", expiration_date: "03/2018", cardholder_name: nil, customer_location: "US", prepaid: "Unknown", healthcare: "Unknown", durbin_regulated: "Unknown", debit: "Unknown", commercial: "Unknown", payroll: "Unknown", product_id: "Unknown", country_of_issuance: "Unknown", issuing_bank: "Unknown", image_url: "https://assets.braintreegateway.com/payment_method_logo/visa.png?environment=sandbox", unique_number_identifier: nil>, customer_details: #<id: nil, first_name: nil, last_name: nil, email: nil, company: nil, website: nil, phone: nil, fax: nil>, subscription_details: #<Braintree::Transaction::SubscriptionDetails:0x5d7f0e0 @billing_period_end_date=nil, @billing_period_start_date=nil>, updated_at: 2017-09-14 02:26:09 UTC>' is not an ActiveModel-compatible object. It must implement :to_partial_path.):
+  
+app/controllers/checkouts_controller.rb:50:in `checkout'
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:27:00 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1163ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:27:17 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"c55b09c4-7a7e-0771-7b19-c228c93c0595"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 3774ms (Views: 0.2ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:28:35 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"10e5ab21-6135-005a-72bc-7d56a6d4d1f4"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 2784ms (ActiveRecord: 0.0ms)
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/checkouts_controller.rb:52:in `checkout'
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:29:48 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"73d0ceae-c67d-05a1-6a90-509884412f23"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 2941ms (Views: 0.2ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:30:50 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"d96b37b5-c80d-019a-2817-ac480e212202"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 3097ms (ActiveRecord: 2.0ms)
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/checkouts_controller.rb:53:in `checkout'
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:32:24 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 2375ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:32:45 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"823b8c7d-6f2c-0243-56f3-bc416e4ab691"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 2768ms (ActiveRecord: 1.0ms)
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/checkouts_controller.rb:52:in `checkout'
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:45:50 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1241ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:46:18 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"0f5bed97-30b0-0eda-7a8f-7049b0b14d3c"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.0ms)[0m  [1m[32mINSERT INTO "users" ("email", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["email", ""], ["created_at", "2017-09-14 02:46:20.266958"], ["updated_at", "2017-09-14 02:46:20.266958"]]
+  [1m[35m (105.2ms)[0m  [1m[36mcommit transaction[0m
+Completed 200 OK in 4240ms (Views: 0.2ms | ActiveRecord: 117.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:46:44 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"57dbe0e6-4019-016d-67ca-4a45ee96e41a"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 21ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:47:14 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"d58f397f-e8a2-03bc-5b84-46d0ff59ef70"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 200 OK in 68ms (Views: 0.2ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:51:55 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:51:57 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Completed 200 OK in 2015ms (Views: 0.3ms)
+
+
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 2204ms (Views: 0.1ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:52:18 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"b0800a2a-8f81-0c88-60e2-f625e7577a3a"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 420  in 21ms (Views: 0.2ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 10:54:04 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1189ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:54:23 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"ebc635fb-05a5-018b-5f2c-7dd1c3d11511"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", ""], ["LIMIT", 1]]
+Completed 420  in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 10:55:43 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"f32715af-96b3-0e6f-2781-349659f903d7"}
+Can't verify CSRF token authenticity.
+Completed 422 Unprocessable Entity in 5ms
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.1.4) lib/action_controller/metal/request_forgery_protection.rb:195:in `handle_unverified_request'
+actionpack (5.1.4) lib/action_controller/metal/request_forgery_protection.rb:227:in `handle_unverified_request'
+actionpack (5.1.4) lib/action_controller/metal/request_forgery_protection.rb:222:in `verify_authenticity_token'
+activesupport (5.1.4) lib/active_support/callbacks.rb:413:in `block in make_lambda'
+activesupport (5.1.4) lib/active_support/callbacks.rb:197:in `call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:197:in `block (2 levels) in halting'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:12:in `call'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:12:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.1.4) lib/active_support/callbacks.rb:198:in `call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:198:in `block in halting'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `block in invoke_before'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `each'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `invoke_before'
+activesupport (5.1.4) lib/active_support/callbacks.rb:130:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 11:00:51 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1453ms (Views: 0.3ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 11:01:10 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"", "payment_method_nonce"=>"47723879-37da-012e-5f60-1d7b52508a2a"}
+Can't verify CSRF token authenticity.
+Completed 422 Unprocessable Entity in 8ms
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.1.4) lib/action_controller/metal/request_forgery_protection.rb:195:in `handle_unverified_request'
+actionpack (5.1.4) lib/action_controller/metal/request_forgery_protection.rb:227:in `handle_unverified_request'
+actionpack (5.1.4) lib/action_controller/metal/request_forgery_protection.rb:222:in `verify_authenticity_token'
+activesupport (5.1.4) lib/active_support/callbacks.rb:413:in `block in make_lambda'
+activesupport (5.1.4) lib/active_support/callbacks.rb:197:in `call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:197:in `block (2 levels) in halting'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:12:in `call'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:12:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.1.4) lib/active_support/callbacks.rb:198:in `call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:198:in `block in halting'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `block in invoke_before'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `each'
+activesupport (5.1.4) lib/active_support/callbacks.rb:507:in `invoke_before'
+activesupport (5.1.4) lib/active_support/callbacks.rb:130:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/client_token" for 192.168.1.116 at 2017-09-14 11:04:39 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as */*
+Completed 200 OK in 2308ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.116 at 2017-09-14 11:04:54 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as */*
+Completed 200 OK in 1225ms (Views: 0.2ms)
+
+
+Started GET "/client_token" for 192.168.1.116 at 2017-09-14 11:07:08 +0800
+Cannot render console from 192.168.1.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as */*
+Completed 200 OK in 1169ms (Views: 0.1ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 11:11:25 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 1245ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 11:11:46 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"hhm", "payment_method_nonce"=>"14afe7bc-b3e2-0c7c-74e7-015cf4ae7f63"}
+Can't verify CSRF token authenticity.
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhm"], ["LIMIT", 1]]
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhm"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "users" ("email", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["email", "hhm"], ["created_at", "2017-09-14 03:11:48.103077"], ["updated_at", "2017-09-14 03:11:48.103077"]]
+  [1m[35m (70.4ms)[0m  [1m[36mcommit transaction[0m
+Completed 200 OK in 3008ms (Views: 0.2ms | ActiveRecord: 74.4ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 11:12:05 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"hhm", "payment_method_nonce"=>"582c2eef-c81a-0a60-5164-931c2a41353a"}
+Can't verify CSRF token authenticity.
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhm"], ["LIMIT", 1]]
+Completed 420  in 3ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/client_token" for 192.168.1.138 at 2017-09-14 11:17:12 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#client_token as HTML
+Completed 200 OK in 3899ms (Views: 0.2ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 11:17:33 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"hhm", "payment_method_nonce"=>"6199a512-40d8-0630-5b71-f0059df48e58"}
+Can't verify CSRF token authenticity.
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhm"], ["LIMIT", 1]]
+  [1m[36mUser Exists (1.0ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhm"], ["LIMIT", 1]]
+Completed 420  in 39ms (Views: 0.2ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/checkout" for 192.168.1.138 at 2017-09-14 11:18:05 +0800
+Cannot render console from 192.168.1.138! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CheckoutsController#checkout as HTML
+  Parameters: {"amount"=>"0.99", "email"=>"hhmjkjj", "payment_method_nonce"=>"0fbedb09-a10e-04ad-5105-7729e887a1d2"}
+Can't verify CSRF token authenticity.
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhmjkjj"], ["LIMIT", 1]]
+  [1m[36mUser Exists (0.0ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhmjkjj"], ["LIMIT", 1]]
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "hhmjkjj"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "users" ("email", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["email", "hhmjkjj"], ["created_at", "2017-09-14 03:18:07.572582"], ["updated_at", "2017-09-14 03:18:07.572582"]]
+  [1m[35m (81.6ms)[0m  [1m[36mcommit transaction[0m
+Completed 200 OK in 2931ms (Views: 0.4ms | ActiveRecord: 82.6ms)
+
+
